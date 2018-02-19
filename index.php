@@ -1,4 +1,7 @@
 <?php
+
+//nueva linea
+
 	$mystring = 'filter_start_date_from';
 	$findme   = '_';
 	$posInitial = strpos($mystring, $findme);
