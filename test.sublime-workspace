@@ -1,0 +1,469 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fran",
+				"franca"
+			],
+			[
+				"fra",
+				"franca"
+			],
+			[
+				"espa",
+				"espanha"
+			],
+			[
+				"spa",
+				"spain"
+			],
+			[
+				"ale",
+				"alemanha"
+			],
+			[
+				"alem",
+				"alemania"
+			],
+			[
+				"alema",
+				"alemanha"
+			],
+			[
+				"meta",
+				"meta_description"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"pri",
+				"print"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Juan Acosta/Desktop/vistas.txt",
+		"/C/xampp/htdocs/dollarprod/app/design/frontend/dollar/default/template/viajemos_car/availability/quicksearch.phtml",
+		"/C/Users/Juan Acosta/Desktop/texto/index.html",
+		"/C/Users/Juan Acosta/Desktop/texto/test-image.html",
+		"/C/Users/Juan Acosta/Desktop/index.html",
+		"/C/Users/Juan Acosta/Desktop/landingAutosEuropa/viajemos_url.sql",
+		"/C/xampp/htdocs/viajemosmagento__/app/code/local/Viajemos/Hotel/Helper/Data.php",
+		"/C/xampp/htdocs/viajemosmagento__/app/code/local/Viajemos/Booking/Helper/Data.php",
+		"/C/xampp/htdocs/viajemosmagento__/app/code/local/Viajemos/Hotel/Model/HotelEngine.php",
+		"/C/xampp/htdocs/viajemosmagento__/app/code/local/Viajemos/Hotel/Model/HotelSearchItem.php",
+		"/C/Users/Juan Acosta/AppData/Roaming/Skype/My Skype Received Files/viajemos_hotel_cities_translate02022018.sql",
+		"/C/Users/Juan Acosta/AppData/Roaming/Skype/My Skype Received Files/system.xml",
+		"/C/Users/Juan Acosta/Desktop/viajemos_url.sql",
+		"/C/Users/Juan Acosta/AppData/Local/Temp/Temp1_landigpageCountries.zip/landigpageCountries/viajemos_car_locations.sql",
+		"/C/Users/Juan Acosta/Desktop/funcion_booking.txt",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Users/Juan Acosta/AppData/Local/Temp/Temp1_landigpageCountries.zip/landigpageCountries/viajemos_url.sql",
+		"/C/Users/Juan Acosta/Google Drive/Aplicaciones/viajemos/landing_pages.sql",
+		"/C/Users/Juan Acosta/Desktop/informacion-por-defecto.txt",
+		"/C/Users/Juan Acosta/Desktop/landigpageCountries/viajemos_car_locations.sql",
+		"/C/Users/Juan Acosta/Desktop/landigpageCountries/viajemos_url.sql",
+		"/C/Users/Juan Acosta/Desktop/viajemosprod_viajemos_landingpages_cars.sql",
+		"/C/Users/Juan Acosta/Desktop/lp autos/viajemosprod_viajemos_landingpages_layouts.sql",
+		"/C/Users/Juan Acosta/AppData/Roaming/Skype/My Skype Received Files/viajemos_url.sql",
+		"/C/Users/Juan Acosta/Pictures/bk-viajemos-201701-test/viajemostest_admin_assert.sql",
+		"/C/Users/Juan Acosta/AppData/Roaming/Skype/My Skype Received Files/viajemos_cars_12012018.sql",
+		"/C/Users/Juan Acosta/Documents/dumps/viajemos_car_locations.sql",
+		"/C/Users/Juan Acosta/Desktop/viajemos_car_locations.sql",
+		"/C/Users/Juan Acosta/AppData/Roaming/Skype/My Skype Received Files/viajemos_car_locations_UAT_12012018.sql",
+		"/C/Users/Juan Acosta/Desktop/lp autos/viajemosprod_core_config_data.sql",
+		"/C/Users/Juan Acosta/Desktop/lp autos/viajemosprod_viajemos_landingpages.sql",
+		"/C/Users/Juan Acosta/Desktop/lp autos/viajemosprod_viajemos_landingpages_cars.sql",
+		"/C/Users/Juan Acosta/Desktop/lp autos/viajemosprod_viajemos_url.sql",
+		"/C/Users/Juan Acosta/AppData/Local/Temp/my/destination/dir/RateCarSearch-Request-9d44d9b8-afed-46c2-8b6c-dd940e8c2ea1-20180105_084457.xml",
+		"/C/Users/Juan Acosta/Desktop/CarSell-Request-e28a92f7-ae78-47c5-b96b-ca93ae8293f5-20180105_084505.xml",
+		"/C/Users/Juan Acosta/AppData/Local/Temp/Temp1_5a4fae760577b.zip/CarSell-Request-e28a92f7-ae78-47c5-b96b-ca93ae8293f5-20180105_084505.xml",
+		"/C/Users/Juan Acosta/Desktop/dollar.php",
+		"/C/Users/Juan Acosta/Desktop/Hotel_MultiSingleAvaily-InformationConnection-6b7841bf-08de-4c21-b8dd-f2eb5e6f0c30-20180104_012513.xml",
+		"/C/Users/Juan Acosta/Desktop/AddMultiElementsHotls-Request-cd0a17dd-5d1c-457b-8419-69057ff3cdcd-20180105_084430.xml",
+		"/C/Users/Juan Acosta/Desktop/sell-funcional.xml",
+		"/C/Users/Juan Acosta/Desktop/sell-2.xml",
+		"/C/Users/Juan Acosta/Desktop/sell2xml.xml",
+		"/C/Users/Juan Acosta/Desktop/sell.xml",
+		"/C/Users/Juan Acosta/Desktop/bookohotel.php",
+		"/C/Users/Juan Acosta/Desktop/boo.php",
+		"/C/xampp/htdocs/bookohotel/app/code/local/Viajemos/Booking/controllers/IndexController.php",
+		"/C/xampp/htdocs/phpterminal/index.php",
+		"/C/Users/Juan Acosta/AppData/Roaming/Skype/My Skype Received Files/local_28122017.sql",
+		"/C/Users/Juan Acosta/Google Drive/reportbooking/ReportbookinghourController.php",
+		"/C/Users/Juan Acosta/Google Drive/reportbooking/ReporthourResult.php",
+		"/C/Users/Juan Acosta/Google Drive/reportbooking/IndexController.php",
+		"/C/Users/Juan Acosta/Google Drive/reportbooking/Reportbookinghour.php",
+		"/C/Users/Juan Acosta/Google Drive/reportbooking/reportbookinghour.js",
+		"/C/Users/Juan Acosta/AppData/Roaming/Skype/My Skype Received Files/viajemos_payment_method_available.sql",
+		"/C/xampp/htdocs/bookohotel/app/code/local/Viajemos/Booking/Block/Adminhtml/Reporthour/ReporthourResult.php",
+		"/C/Users/Juan Acosta/Desktop/paymentTypeHotel.txt",
+		"/C/Users/Juan Acosta/AppData/Local/Temp/Temp1_ndc-implementation-guide.zip/NDCImplementationGuide_XMLSamples_v4.2/UC1-TimeLimt-PersonalizedShopping/1_AirShoppingRQ.xml",
+		"/C/Users/Juan Acosta/Documents/dumps/Dump20171212.sql",
+		"/C/Users/Juan Acosta/AppData/Roaming/Skype/My Skype Received Files/mysql4-upgrade-0.2.41-0.2.42.php",
+		"/C/xampp/htdocs/PruebaPayPal/redirect.php",
+		"/C/Users/Juan Acosta/AppData/Roaming/Skype/My Skype Received Files/OrderFiles.sql",
+		"/C/Users/Juan Acosta/Desktop/st.sql",
+		"/C/Users/Juan Acosta/Desktop/viajemos_booking_increment.sql",
+		"/C/Users/Juan Acosta/Desktop/vistaListaReservas.sql",
+		"/C/Users/Juan Acosta/Desktop/blueimp-Bootstrap-Image-Gallery-281af5b/js/demo.js",
+		"/C/Users/Juan Acosta/Desktop/blueimp-Bootstrap-Image-Gallery-281af5b/index.html",
+		"/C/Users/Juan Acosta/Documents/dumps/bookohotel20171201.sql",
+		"/C/Users/Juan Acosta/Documents/dumps/viajemosmagento_tables_2017092801-30-01.sql",
+		"/C/xampp/htdocs/site/index.html",
+		"/C/xampp/htdocs/site/index2.html",
+		"/C/xampp/htdocs/site/carousel.css",
+		"/C/xampp/htdocs/site/js/main.js",
+		"/C/Users/Juan Acosta/AppData/Roaming/Skype/My Skype Received Files/mysql4-upgrade-0.2.42-0.2.43-New-Rates.php",
+		"/C/xampp/htdocs/PruebaPayPal/index.php",
+		"/C/Users/Juan Acosta/Google Drive/datos.txt",
+		"/C/Users/Juan Acosta/Documents/dumps/Dump20171109.sql",
+		"/C/Users/Juan Acosta/Google Drive/correo smtp",
+		"/C/Users/Juan Acosta/Desktop/log.txt",
+		"/C/xampp/htdocs/bookohotel/app/code/local/Viajemos/Hotel/Model/ProductViajemos.php",
+		"/C/xampp/htdocs/bookohotel/app/code/local/Viajemos/Booking/Model/BookingPayment.php",
+		"/C/xampp/htdocs/bookohotel/app/code/local/Viajemos/Payment/Model/AuthorizeNet.php",
+		"/C/Users/Juan Acosta/Desktop/Nueva carpeta/dollarprod_viajemos_booking_customer.sql",
+		"/C/Users/Juan Acosta/Google Drive/contras",
+		"/C/xampp/htdocs/viajemosmagento/app/code/local/Viajemos/Booking/etc/adminhtml.xml",
+		"/C/Users/Juan Acosta/AppData/Roaming/Skype/My Skype Received Files/mysql4-upgrade-0.2.39-0.2.40-Dollar.php",
+		"/C/Users/Juan Acosta/Desktop/estructura y datos booking.sql",
+		"/C/Users/Juan Acosta/Documents/index.html",
+		"/C/Users/Juan Acosta/AppData/Local/Temp/Redgate/Azure Explorer/12976/dbf94d49-fdd7-4ce9-877d-bb2396519f7a.xml",
+		"/C/Users/Juan Acosta/AppData/Local/Temp/Redgate/Azure Explorer/12976/8d5e8b93-ddf3-4a98-92c7-79aa4c6c2c9f.xml",
+		"/C/xampp/htdocs/prueba/manifest.json",
+		"/C/xampp/htdocs/prueba/popup.html",
+		"/C/xampp/htdocs/prueba/popup.js",
+		"/C/Users/Juan Acosta/AppData/Local/Temp/Redgate/Azure Explorer/12440/551dc3e2-1b9e-4c6a-b2de-9e61ede60e78.xml",
+		"/C/Users/Juan Acosta/AppData/Local/Temp/Redgate/Azure Explorer/12440/e1cf754d-bb0d-49b3-8c2e-347915b85f96.xml",
+		"/C/Users/Juan Acosta/AppData/Local/Temp/Redgate/Azure Explorer/12440/4697b58b-fee7-49a2-88ba-5ddc6c44333d.xml",
+		"/C/Users/Juan Acosta/AppData/Local/Temp/Redgate/Azure Explorer/12440/39715543-1cf0-455f-8108-801acf1eb8b3.xml",
+		"/C/Users/Juan Acosta/AppData/Local/Temp/Redgate/Azure Explorer/10756/1cf25645-b1de-4d18-92aa-8c26b7b30169.xml",
+		"/C/Users/Juan Acosta/AppData/Local/Temp/Redgate/Azure Explorer/10756/7e4cab8f-68aa-41f4-a75b-3a2e73700034.xml",
+		"/C/Users/Juan Acosta/AppData/Local/Temp/Redgate/Azure Explorer/10756/d39545ac-ba5e-4400-8684-82d1a588c4dd.xml",
+		"/C/Users/Juan Acosta/AppData/Local/Temp/Redgate/Azure Explorer/10756/4032dce3-18e3-4f84-87e7-3e38b99c65c6.xml",
+		"/C/Users/Juan Acosta/Documents/ACCESOS A APLICACIONES.txt",
+		"/C/Users/Juan Acosta/Desktop/faltantes.txt",
+		"/C/xampp/htdocs/bookohotel/var/report/1069995067",
+		"/I/tt.txt",
+		"/C/Users/Juan Acosta/Google Drive/Incidencias/Incidencia-ws-restel.xls",
+		"/C/xampp/htdocs/bookohotel/app/design/frontend/base/default/template/viajemos_booking/emails/resumen/car/cost.phtml",
+		"/C/xampp/htdocs/bookohotel/app/code/local/Viajemos/Booking/controllers/ResumeController.php",
+		"/C/xampp/htdocs/bookohotel/app/design/frontend/base/default/layout/viajemos_booking.xml",
+		"/C/xampp/htdocs/bookohotel/var/report/537019506",
+		"/C/xampp/htdocs/bookohotel/var/report/1766370194",
+		"/C/xampp/htdocs/bookohotel/var/report/1881235585",
+		"/C/xampp/htdocs/bookohotel/var/report/886581740",
+		"/C/xampp/htdocs/infophp.php",
+		"/C/xampp/htdocs/bookohotel/var/report/519228980",
+		"/C/xampp/htdocs/bookohotel/var/report/967610268",
+		"/C/xampp/htdocs/bookohotel/var/report/1127765377",
+		"/C/Users/Juan Acosta/Documents/prueba/code/local/Viajemos/Booking/etc/adminhtml.xml",
+		"/C/Users/Juan Acosta/Documents/prueba/code/local/Viajemos/Booking/etc/config.xml",
+		"/C/Users/Juan Acosta/Documents/prueba/code/local/Viajemos/Booking/Block/Adminhtml/Booking/List.php",
+		"/C/Users/Juan Acosta/Documents/prueba/code/local/Viajemos/Booking/Model/Booking.php",
+		"/C/xampp/htdocs/bookohotel/app/etc/local.xml",
+		"/C/Users/Juan Acosta/Google Drive/Aplicaciones/bookohotel/virtualHost.txt",
+		"/C/xampp/htdocs/magento/app/code/local/Inchoo/HelloDeveloper/etc/config.xml",
+		"/C/xampp/htdocs/magento/app/code/local/Inchoo/HelloDeveloper/controllers/IndexController.php",
+		"/C/Users/Juan Acosta/Documents/bookohotel/bookohotel_admin_assert.sql",
+		"/C/Users/Juan Acosta/Documents/Docuentos Existentes/pruebas/test.php",
+		"/C/xampp/htdocs/magento/app/etc/modules/Inchoo_HelloDeveloper.xml",
+		"/C/xampp/htdocs/magento/app/code/local/Inchool/HelloDeveloper/etc/config.xml"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"via",
+			"brandCode",
+			"hotelcode",
+			"8736",
+			"viajemos",
+			"535655",
+			"535654",
+			"535653",
+			"535652",
+			"535651",
+			"\"\"",
+			"lang",
+			"742540",
+			"roomCodeType",
+			"742540",
+			"roomCode",
+			"preBooking",
+			"preBookingId",
+			"provider",
+			"hotel",
+			"name",
+			"city",
+			"cityName",
+			"fee",
+			"hotelSelected",
+			"customer232",
+			"customer",
+			"agent",
+			"total",
+			"atlo",
+			"des",
+			"pai",
+			"agent",
+			"car",
+			"viajemos_product_type",
+			"name",
+			"price",
+			"car_price_booking",
+			"country",
+			"iata",
+			"count",
+			"report",
+			"lang",
+			"price",
+			"paid",
+			"109.84",
+			"mou",
+			"stat",
+			"status",
+			"club",
+			"name",
+			"base",
+			"company",
+			"name",
+			"id",
+			"viajemos_",
+			"viajemos_id",
+			"hotelSelected",
+			"payment",
+			"fee",
+			"coun",
+			"transa",
+			"trans",
+			"transa",
+			"discount",
+			"discount\t",
+			"discount",
+			"sear",
+			"key",
+			"city",
+			"1a",
+			"payment",
+			"phone",
+			"age",
+			"phone",
+			"name",
+			"stat",
+			";",
+			"agenci",
+			"voucher",
+			"discount",
+			"reservation",
+			"2915",
+			"trm",
+			"prepay",
+			"discount",
+			"discout",
+			"discoutn",
+			"fee",
+			"base",
+			"countr",
+			"ip",
+			"curre",
+			"store",
+			"countr",
+			"content-cards-toggle",
+			"check_payment_type",
+			"incre",
+			"viajemos_booking",
+			"transactionIdentifier",
+			"(\n",
+			"transactionIdentifier",
+			"6c7499bd-6cf4-467b-9439-ccee7a1eaadd",
+			"agent",
+			"\":\"\"}}",
+			"room",
+			"name",
+			"company",
+			"company_name",
+			"ecar",
+			"hour",
+			"hout",
+			"hotelCode",
+			"hotelCode.",
+			"hotelCode",
+			"167196",
+			"provider",
+			"city",
+			"evasive"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"535660",
+			"535659",
+			"535658",
+			"535657",
+			"535656",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
