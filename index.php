@@ -3,7 +3,7 @@
 //nueva linea
 //linea nueva
 
-	$mystring = 'filter_start_date_from';
+	$mystring = 'filter_start_date_from'
 	$findme   = '_';
 	$posInitial = strpos($mystring, $findme);
 	$posFinal = strlen ( $mystring );
